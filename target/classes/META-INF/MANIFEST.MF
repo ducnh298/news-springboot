@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nguye
+Build-Jdk: 14.0.2
+Implementation-Title: News-website
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.javaspringbootweb
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/News-website/
+Created-By: Maven Integration for Eclipse
+
